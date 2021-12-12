@@ -1,5 +1,5 @@
 num = 1
-name = 'Mike'
+name = "Mike"
 is_ok = True
 
 print(num, type(num))

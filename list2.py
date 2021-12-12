@@ -1,0 +1,11 @@
+i = [1, 2, 3, 4]
+j = i
+j[0] = 100
+print(j)
+print(i)
+
+x = [1, 2, 3, 4, 5]
+y = x.copy()
+y[0] = 100
+print(y)
+print(x)
